@@ -1,9 +1,9 @@
 
-Une séquence pour faciliter la bonne mise en oeuvre de projet.
+Une séquence pour faciliter la mise en oeuvre de projet. Suivre ces étapes assure le bon démarrage et le bon déroulement d'un projet, même avec des gens qui ne se connaissent pas avant.
 
 ## Résumé
 
-Il s'agit d'un processus d'explicitation / clarification collective des étapes suivantes: 
+Il s'agit d'un processus cyclique d'explicitation / clarification collective des étapes suivantes: 
 
 - Intention
 - Invitation
@@ -15,6 +15,9 @@ Il s'agit d'un processus d'explicitation / clarification collective des étapes 
 
 Retour à l'intention.
 
+> Le processus peut suivre un déroulé spiralaire et s'élargir/s'améliorer à chaque cycle en batissant sur l'existant tel la croissance d'un escargot. 
+
+> Un canevas pourrait être produit pour faciliter l'usage étape par étape.
 
 ## Intention
 
@@ -47,6 +50,8 @@ La vision devrait être ancrée de plusieurs manières pour renforcer son effet 
 - SOUVENIR DU FUTUR
 - REVE EVEILLE
 - ANCRAGE
+- BRISE GLACE
+- ENERGISEUR
 
 ## Principes et Actions
 
