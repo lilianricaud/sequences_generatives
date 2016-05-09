@@ -144,6 +144,7 @@ Use the 15 geometric properties as a guide to check afterwards if your potential
 This is the most difficult part of the process and you'll need to use intuition and feeling rather and intellect and analysis
 
 ## MODELS PROTOTYPES
+
 Traditional building processes occured over decade or centuries. To emulate a similar process over days or years, use models that you can design and manipulate quickly and cheaply.
 
 On the land use flags and poles to get a site plan where each thing feels at the right place. A small scale model allow to try options while working remotely.
@@ -184,7 +185,7 @@ after that, the work always ends with a very small thumbnail sketch, which captu
 
 ## SYMMETRY AND SIMPLICITY
 
-** Design simple symmetric structures sharing similar patterns, while adjusting each one to the local conditions.**
+_Design simple symmetric structures sharing similar patterns, while adjusting each one to the local conditions._
 
 The appearance of symmetry in nature comes about because there is a symmetry of the conditions where the thing in question exists. In most cases, the symmetries occur because there is no good reason for asymmetries to occur.
 
@@ -220,7 +221,7 @@ The immensely detailed use of MODELS and experiments.
 
 ## 3D DESIGN WITH MODELS
 
-**Design in three dimensions by making, using and testing models.**
+_Design in three dimensions by making, using and testing models._
 
 Through model building - a dynamic active process (not mechanical passive transcription of a plan drawing) one finds by intuition, shape, size, degree of enclosure, height of perimeter walls, number of openings, extent of views enabling people to look out, and quality of material (masonry, foliage, flowers, height of low solid wall and so forth).
 
@@ -246,9 +247,9 @@ Models are built together in parallel in relationship to each other while also i
 
 ## POSITIVE SPACE
 
-** Life on the place and in people will always depend on the extend to which these outdoor spaces are positive and made up of positive spaces (p198, p213).
+_Life on the place and in people will always depend on the extend to which these outdoor spaces are positive and made up of positive spaces (p198, p213)._
 
-Shape positive space incrementally, step by step, all over the land** 
+_Shape positive space incrementally, step by step, all over the land_
 
 A positive space is an outdoor space without a ceiling. the perimeter of such a space may be enclosed by wall, or partially enclosed by walls. It may even be enclosed by a few markers - columns or trees - and the rest of the perimeter is open.
 
