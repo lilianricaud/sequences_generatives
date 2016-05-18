@@ -86,9 +86,20 @@ Les principes décrivent les grandes lignes dans lesquelles s'inscrivent les act
 
 Les principes et actions doivent s'inscrire dans une vision. On peut parler de principes ou d'actions pour aider à co-construire la vision, mais la validation des principes et des actions ne peut se faire que après que la vision ait été bien posée. En résumé les principes et actions découlent de la vision et non l'inverse.
 
-
 ### Outils
 - MANDALA HOLISTIQUE
+
+## Contrat social
+
+Une fois que la vision, les valeurs, les pricnipes et les modes d'actions sont clarifiés et expliciter, il est important d'acter collectivement. Cela peut être sur un mode de consensus, de consentement, cela peut etre ancré par la rédaction d'une sorte de contrat social (charte, code social, statuts, ...).
+
+La réalité étant mouvante et les choses pouvant changer, il est important de comprendre et d'accepter que ce contrat social pourra évoluer et de définir aussi ensemble les conditions selon lesquelles il pourra évoluer (par exemple prévoir des mécanismes d'évaluation type retrospective)
+
+### Outils
+- CHARTE
+- CHARTE RELATIONNELLE
+- STATUTS
+- CODE SOCIAL
 
 ## Mise en oeuvre
 
@@ -114,6 +125,7 @@ Pour faciliter la mise en oeuvre, il est utile de ritualiser (format particulier
 ### Outils
 - RITUELS
 - RETROSPECTIVE
+- BILAN RELATIONNEL
 
 ## Itération
 
@@ -125,3 +137,6 @@ Ainsi on repart pour un cycle de clarification/explicitation (intention, invitat
 
 Lilian Ricaud
 contact@lilianricaud.com
+
+Voir aussi dans le même esprit: Organisation collective
+http://dev.multibao.org/#captain-berrotte/astuces_stages_creatifs/blob/master/organisation_collective/01-atelier_vision.md
