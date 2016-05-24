@@ -28,38 +28,23 @@ Un système est extremement sensible aux conditions initiales. L'intention des p
 - 5 POURQUOI
 - QUESTIONS PUISSANTES
 
-## Invitation / Intentcasting
+## Invitation
 
 L'intention clarifiée il faut inviter les parties prenantes à contribuer à la co-construction du projet. L'invitation doit refléter l'intention, que ce soit au niveau du choix des mots, du format ou des personnes invitées, l'invitation doit être cohérente avec l'intention.
 
 L'invitation claire et en accord avec l'intention va agir comme un aimant, attirant les personnes en phase avec l'intention et repoussant celles qui ne s'y retrouveraient pas.
 
-----
+Utiliser le format "Intencasting " pour que l'invitation touches les personnes avec qui l'invitation va résonner et qui vont être assez entousiasmées pour se connecter:
 
-Interest brings groups together, but intent is what brings teams together to actually get things done.
+Dans le format intentcasting, l'invitation: 
+- décrit une promesse d'un futur possible et souhaitable, 
+- est écrite d'une manière compréhensible par les personnes
+- est ouverte à la participation d'une manière plus ou moins définie, 
+- est exprimé d'une manière qui lui permet de voyager et de se diffuser sur les canaux de communication
 
-Intentcasting is deceptively simple to describe. It consists in broadcasting your intent to make something happen. That something could be anything:
-
-    “I want to have a party at my house!”
-
-    “We want to raise $1,000 for Japan!”
-
-    “I want this piece of software to exist!”
-
-    “We want this work of art to exist!”
-
-
-In order for intent to catch on, it has to meet a few conditions:
-
-    It must describe a promise – a future state of affairs that could conceivably happen, explained in a way that people understand.
-
-    It must open participation in one or more well-defined ways.
-
-    It must be expressed in a way that enables it to travel and spread over the communications infrastructure.
-
-    There must be other people or groups out there who resonate with the intent and can get excited enough to connect.
-    
-----
+### Outils
+- NOMMER
+- INTENCASTING
 
 ## Vision
 
