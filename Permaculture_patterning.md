@@ -39,6 +39,8 @@ http://makingpermaculturestronger.net/2016/05/08/christopher-alexanders-neglecte
 
 ## Darren Doherty sequence for plans making
 
+From more permanent (difficult to change/affect) to less permanent (easier to affect/change)
+
 ### 1) Google Earth
 
 Google Earth photo data is getting better all of the time and it is a blessing to have it available. We use Google Earth Pro, NearMap & other services to obtain high quality images and then use ‘Grab’ or similar apps to take higher resolution screen shots and then use Photoshop’s ‘Photomerge‘ tools to assemble a very high quality mosaic as we have done in this case, making sure that each ‘Grab’ has sufficient overlap to allow the photo merge possible
@@ -129,6 +131,20 @@ from a comment: http://makingpermaculturestronger.net/2016/06/06/the-exceptional
 
 ### source: 
 http://makingpermaculturestronger.net/2016/07/28/christopher-alexanders-challenge-meets-darren-j-dohertys-design-process-part-two-of-two/
+
+
+## Dan Palmer's proposed Permaculture Design process
+
+- Starting with an existing configuration of a whole-space-comprising-a-configuration-of-already-differentiated-parts…
+- …further differentiating this whole…
+- …fluidly moving down, up, and sideways as necessary…
+- …both modifying what is there and conceiving (as potential) then introducing (as actual) new parts…
+- …that grow out of and hence harmonise with the whole…
+- …to support the evolution of that whole…
+- …as a rich network of interelated parts…
+- …toward our desired outcomes of a resilient, abundant, human-supporting ecosystem (or whichever wording floats your boat).
+
+
 
 ## Permaculture patterning sequence
 
