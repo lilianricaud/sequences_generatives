@@ -158,7 +158,8 @@ Make sure user understand fully the process and where it will take them. Particu
 
 Identify users from the various stakeholder groups so as to form a small group who will work regularly on the project. This microcosm should be chosen (or better volunteered) to represent the wider macrocosm of users.
 
-## DREAMS
+## PEOPLE'S DREAMS
+
 Make people Dream and share their dreams using interview or better powerful question such as remember the future.
 
 Asking people to share their dreams brings them in intuitive mode, in touch with their feeling the quality of the output is much better and more powerful than anything the intellect can provide.
@@ -187,6 +188,7 @@ Move from whole to parts to whole to refine the language.
 after listing all the essential centers and their relationships, validate with users (or a selected sub group, committee, that represent all the users). Have them discuss and adjust, then validate the pattern language before proceeding further
 
 ## RESSOURCES FIT
+
 Fit and adjust the pattern language to available resources. If a center is  too costly to be made, try to make it smaller such as to keep the spirit/intent/function but in a feasible way.
 
 In Eishing Alexander matched estimated cost for indoor and outdoor for the wanted surface with the available budget and reduce surface areas by certain percentage so as to keep all the pattern but in a smaller way. Not all the surface were reduced equally and it was on done on a per-structure basis. The best way to do this is present the constraint to users committee and make them negotiate consensus between them on what should be done. they should know this early on so that they accept it.
@@ -339,5 +341,9 @@ craftmanship, have various people with crafts and talent build different parts, 
 
 
 try to make cheap/fast mockups and see if they work/help increase the degree of life. Use poles with flags to visualize the position of structure, use cardboard, painting on small scale to visualize the effect of ornements, …
+
+## WORKERS AUTONOMY
+
+Make sure everyone understand the big picture and is passionate about his work, then let people make their own choice in building as much as possible while remaining consistant with the big picture.
 
 ## EVOLUTION
