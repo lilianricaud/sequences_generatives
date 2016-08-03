@@ -145,7 +145,7 @@ mistake (error) = miss + take = forgot to take something into account.
 If there is smething you missed go back to previous step.
 
 ## NO IMAGES
-Avoid the use of images and draing and instead work with prototypes and mock ups so that people are not trapped in the details of the image but rather in the mainframe at each steps.
+Avoid the use of real images and drawing and instead work with people's inner images. If you do need to visualize use rough sketchs, prototypes and mock ups so that people are not trapped in the details of the image but rather in the mainframe at each steps.
 
 # LIVING ARCHITECTURE CONSTRUCTION (EISHIN SEQUENCE)
 
