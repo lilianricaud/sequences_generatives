@@ -117,6 +117,18 @@ http://makingpermaculturestronger.net/2016/07/28/christopher-alexanders-challeng
 ### Source:
 from a comment: http://makingpermaculturestronger.net/2016/06/06/the-exceptional-case-of-dave-jacke-edible-forest-gardens/#comment-132
 
+## WASPA permaculture sequence
+
+- water
+- access
+- structures
+- plants
+- animals 
+
+> note: this lacks vision, land analysis and invisible structures
+
+### source: 
+http://makingpermaculturestronger.net/2016/07/28/christopher-alexanders-challenge-meets-darren-j-dohertys-design-process-part-two-of-two/
 
 ## Permaculture patterning sequence
 
