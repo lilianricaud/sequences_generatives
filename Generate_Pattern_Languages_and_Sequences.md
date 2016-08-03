@@ -39,9 +39,9 @@ Patterns vs sequences
 
 Pattern language was a usefull tool but it was too complex for most people because it lacked information about when to use each pattern. Later on Alexander brought the notion of generative sequence which he sees as a second generation of pattern languages.
 
-Effectivelly a pattern is a map of spatial relationships between centers/elements (themselves being patterns). 
+_Effectivelly a **pattern** is a map of spatial relationships between sub-centers/elements (themselves being patterns/centers)._
 
-A generative sequence can be seen as a map of temporal relationships between patterns, ie when each patterns is deployed in the process to generate a coherent structure at each step. 
+_A **generative sequence** can be seen as a map of temporal relationships between patterns, ie when each patterns is deployed in the process to generate a coherent structure at each step._
 
 ## Difference between differentiating and assembling process
 
