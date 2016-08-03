@@ -95,3 +95,32 @@ Various forestry systems are integrated in with the headlands offsets & Keyline 
 ### Source
 
 http://www.regrarians.org/services/farm-design-process/
+
+
+## Permaculture patterning sequence
+
+### start with an ethical framework
+- work to preserve and nourrish life in all its form
+
+### Change your view of the world 
+
+- Shift focus from object to relationship by using the centers/pattern lens to look at the world
+- Change your view of order: accept unpredictability and emergence
+- shift your focus from quantitative to qualitative assessment
+
+#### Always be aware of the whole
+
+- rely on your intuition and feeling as a tool to comprehend the wholeness of systems
+- feel the latent potential of the system: what is its exsiting dynamics, where does it want to go, what wants to emerge ?
+
+#### Shift your process 
+- from a descriptive to a generative approach, 
+- from assembling process to differentiating process
+
+### Map what is already there and work creativelly to preserve and extend it
+
+- Create new links between centers so that they support each others
+- Work by step-by-step adaptation using feedback at each step
+- Start by design mainframe first then go into details (move from pattern to details)
+- Shift your focus from whole to parts then back to whole
+
