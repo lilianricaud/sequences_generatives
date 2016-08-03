@@ -37,6 +37,17 @@ Roads, water structure,
 http://makingpermaculturestronger.net/2016/05/08/christopher-alexanders-neglected-challenge-to-permaculture/#easy-footnote-bottom-9
 
 
+## Robyn Francis sequence
+
+from a comment: http://makingpermaculturestronger.net/2016/06/06/the-exceptional-case-of-dave-jacke-edible-forest-gardens/#comment-132
+
+- First get the big picture patterns in context – starting from bioregion and neighbourhood (geo-physical & social patterns, I’ve developed my own ESM tool for this), and 
+- clarify the strategic plan (vision, aims, objective, values). 
+- Then the patterning more immediate external influences (sector analysis) and mapping the patterns within the site itself (site analysis). Here I find Ian McHarg’s exclusion overlay process particularly useful as a tool for mapping the ‘higher order’ ecological needs of the site (I call this “listening to the land”) plus other restraints (buffer zones, legislative, planning), which then provides a context to move into conceptual bubble planning, functional analysis, flow patterns & analysis, which lead into spacial patterns and relationship between systems (zonation), 
+- then last, but not least the placement and patterning of the individual elements as the design details. 
+- Assembling or patterning the relationship of the elements always come last and within the context of the big-picture patterns.
+
+
 ## Darren Doherty sequence for plans making
 
 ### 1) Google Earth
