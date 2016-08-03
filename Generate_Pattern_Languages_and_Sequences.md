@@ -1,5 +1,34 @@
 # Generate Pattern Languages and Generative Sequences
 
+## Difference between patterns and centers
+
+If orignally Alexander used the term 'pattern' he used preferentially 'centers' later on.
+
+A center can be seen as a distinguishable/identifiable part of a system (a window is a part of house, a river a part of valley).
+
+At the same time each center is made up of smaller centers (a river is made up of the riverbed, the water, the trees nearby, ...).
+
+Because systems are "hierarchical" (ie, systems are nested within bigger systems and made up of smaller systems), each 'part'/element/center/pattern is a whole in itself.
+
+So a center can be seen as a 'systemic object' or element, ie not an object in the mecanistic point of view (a part isolated from the rest), but a subsystem always linked to the bigger whole.
+
+It is important to understand that a center is not an isolated part but a subsystem always linked to the bigger system. where does the river stops ? at the water level ? at the edge of the river bed, but how far from the water level ? does it include the trees nearby ? It all depends on where/how we focus our attention and we'll have different definition if we are close to the river or looking at it from the sky.
+
+A way of describing this is thinking of shining a torch at something at night, you can see a part in the light, but there aren't any strict boundaries or separation from the rest of the system.
+
+In systems thinking a pattern is a recurring configuration characteristics of a particular system (all rivers are different, yet all have recurrent configuration, all oak trees are different, yet all have recurrent configuration that we can recognize).
+
+In alexander view, a pattern is at the same an "element" described and a way of decribing the relationship of elements within that element. 
+
+By describing accurately good (he calls them living) configurations, we effectivelly map a center and therefore make it explicit/visible (think again about the metaphor of a torch or a lens) therefore can act on it consciously individually or colectivelly.
+
+_So a **center** can be seen as systemic object, a sub-system and a **pattern** as the careful description of this center._
+
+Alexander argues that he devised this method to revive knowledge that was mostly implicit/unconscious in traditionnal cultures but is getting lost nowadays. By making knowledge explicit we can act on it, maintain it, pass it on, enrich it.
+
+**Therefore a center/pattern is lens, a mapping tool for conscious design.**
+
+
 ## Difference between pattern languages and generative sequences
 
 Pattern language = list of key centers contributing some essential quality to the system and list of relationships.
@@ -10,7 +39,7 @@ Patterns vs sequences
 
 Pattern language was a usefull tool but it was too complex for most people because it lacked information about when to use each pattern. Later on Alexander brought the notion of generative sequence which he sees as a second generation of pattern languages.
 
-Effectivelly a pattern is a map of spatial relationships between elements (themselves being patterns).
+Effectivelly a pattern is a map of spatial relationships between centers/elements (themselves being patterns). 
 
 A generative sequence can be seen as a map of temporal relationships between patterns, ie when each patterns is deployed inthe process to generate a coherent structure at each step. 
 
@@ -277,5 +306,3 @@ craftmanship, have various people with crafts and talent build different parts, 
 try to make cheap/fast mockups and see if they work/help increase the degree of life. Use poles with flags to visualize the position of structure, use cardboard, painting on small scale to visualize the effect of ornements, …
 
 ## EVOLUTION
-
-
