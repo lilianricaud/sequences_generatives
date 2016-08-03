@@ -37,17 +37,6 @@ Roads, water structure,
 http://makingpermaculturestronger.net/2016/05/08/christopher-alexanders-neglected-challenge-to-permaculture/#easy-footnote-bottom-9
 
 
-## Robyn Francis sequence
-
-from a comment: http://makingpermaculturestronger.net/2016/06/06/the-exceptional-case-of-dave-jacke-edible-forest-gardens/#comment-132
-
-- First get the big picture patterns in context – starting from bioregion and neighbourhood (geo-physical & social patterns, I’ve developed my own ESM tool for this), and 
-- clarify the strategic plan (vision, aims, objective, values). 
-- Then the patterning more immediate external influences (sector analysis) and mapping the patterns within the site itself (site analysis). Here I find Ian McHarg’s exclusion overlay process particularly useful as a tool for mapping the ‘higher order’ ecological needs of the site (I call this “listening to the land”) plus other restraints (buffer zones, legislative, planning), which then provides a context to move into conceptual bubble planning, functional analysis, flow patterns & analysis, which lead into spacial patterns and relationship between systems (zonation), 
-- then last, but not least the placement and patterning of the individual elements as the design details. 
-- Assembling or patterning the relationship of the elements always come last and within the context of the big-picture patterns.
-
-
 ## Darren Doherty sequence for plans making
 
 ### 1) Google Earth
@@ -97,7 +86,41 @@ Various forestry systems are integrated in with the headlands offsets & Keyline 
 http://www.regrarians.org/services/farm-design-process/
 
 
+## A default sequence adopted then adapted from P. A Yeomans’ Scale of Permanence:
+
+- Climate (including the personal and cultural climate) – which Darren calls the rules of the game
+- Geography – Which Darren summarises as the board on which the game is played
+- Water
+- Access
+- Forestry
+- Buildings
+- Fencing
+- Soils
+- Marketing (added by Darren)
+- Energy (added by Darren)
+
+> comment: where does vision/strategic plan fit in that sequence ? Robyn francis does it early, see below.
+
+
+### Source:
+http://makingpermaculturestronger.net/2016/07/28/christopher-alexanders-challenge-meets-darren-j-dohertys-design-process-part-two-of-two/
+
+
+## Robyn Francis sequence
+
+- First get the big picture patterns in context – starting from bioregion and neighbourhood (geo-physical & social patterns, I’ve developed my own ESM tool for this), and 
+- clarify the strategic plan (vision, aims, objective, values). 
+- Then the patterning more immediate external influences (sector analysis) and mapping the patterns within the site itself (site analysis). Here I find Ian McHarg’s exclusion overlay process particularly useful as a tool for mapping the ‘higher order’ ecological needs of the site (I call this “listening to the land”) plus other restraints (buffer zones, legislative, planning), which then provides a context to move into conceptual bubble planning, functional analysis, flow patterns & analysis, which lead into spacial patterns and relationship between systems (zonation), 
+- then last, but not least the placement and patterning of the individual elements as the design details. 
+- Assembling or patterning the relationship of the elements always come last and within the context of the big-picture patterns.
+
+### Source:
+from a comment: http://makingpermaculturestronger.net/2016/06/06/the-exceptional-case-of-dave-jacke-edible-forest-gardens/#comment-132
+
+
 ## Permaculture patterning sequence
+
+Draft by Lilian.
 
 ### start with an ethical framework
 - work to preserve and nourrish life in all its form
@@ -111,11 +134,13 @@ http://www.regrarians.org/services/farm-design-process/
 #### Always be aware of the whole
 
 - rely on your intuition and feeling as a tool to comprehend the wholeness of systems
+- feel the wholeness at all levels (the response to the land… must be rooted, always in the whole, in the cultural and human whole and the land and the ecological and natural wholeness of that place which forms the context of our work (Alexandeer, 2002b, p. 344)
 - feel the latent potential of the system: what is its exsiting dynamics, where does it want to go, what wants to emerge ?
 
 #### Shift your process 
 - from a descriptive to a generative approach, 
 - from assembling process to differentiating process
+- a living structure can only arise from a truly living process
 
 ### Map what is already there and work creativelly to preserve and extend it
 
