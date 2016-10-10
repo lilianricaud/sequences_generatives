@@ -78,7 +78,7 @@ Les principes et actions doivent s'inscrire dans une vision. On peut parler de p
 
 Une fois que la vision, les valeurs, les pricnipes et les modes d'actions sont clarifiés et expliciter, il est important d'acter collectivement. Cela peut être sur un mode de consensus, de consentement, cela peut etre ancré par la rédaction d'une sorte de contrat social (charte, code social, statuts, ...).
 
-La réalité étant mouvante et les choses pouvant changer, il est important de comprendre et d'accepter que ce contrat social pourra évoluer et de définir aussi ensemble les conditions selon lesquelles il pourra évoluer (par exemple prévoir des mécanismes d'évaluation type retrospective)
+La réalité étant mouvante et les choses pouvant changer, il est important de comprendre et d'accepter que ce contrat social pourra évoluer et de définir aussi ensemble les conditions selon lesquelles il pourra évoluer (par exemple prévoir des mécanismes d'évaluation type retrospective).
 
 ### Outils
 - CHARTE
@@ -114,7 +114,7 @@ Pour faciliter la mise en oeuvre, il est utile de ritualiser (format particulier
 
 ## Itération
 
-La restrospective renvoi à la vision initiale et il peut etre important de prendre un temps pour remettre a jour collectivement celle ci lorsqu'on travaille sur des temps longs (par exemple tous les ans). 
+La restrospective renvoi à la vision initiale et il peut etre important de prendre un temps pour remettre a jour collectivement celle ci lorsqu'on travaille sur des temps longs (par exemple tous les ans). Dans la nature et les systèmes complexes, l'itération permet de générer de la complexité à partir de règles simples (on le voit de manière claire dans les fractales).
 
 Ainsi on repart pour un cycle de clarification/explicitation (intention, invitation, vision, principes et actions...)
 
