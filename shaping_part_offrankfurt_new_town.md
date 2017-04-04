@@ -17,4 +17,4 @@ Each of these steps was a structure-preserving step which forms or strenghtens c
 
 ## Source 
 
-A vision of a living world, p88
+Alexander, C., A vision of a living world, p88
