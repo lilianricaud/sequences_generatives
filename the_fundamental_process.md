@@ -1,6 +1,10 @@
 # The fundamental process
 
+## About living processes
 
+Alexander defined living processes as all those processes of step-by-step adaptation through which a living structure can be made. (...) The point of all living processes is that the next bit of structure which is injected to transform the existing wholeness *must always extend and enhance the wholeness by creating further positive living centers.* This process of enhancing wholeness is a process which is, if you like, a kind of universal template for all life-creating processes.
+
+## The fundamental process
 
 1. At each step, the process begins with a perception of the whole. At every step (whether it is conceiving, designing, making, maintaining or repairing), we start by looking at and thinking about the whole of that part of the world where we are working. We look at this whole, absorb it, try to feel its deep structure.
 2. Within the whole, we consider the latent centers which might be worked on next. These latent centers, are dimly, partially visible, large, medium and small.
